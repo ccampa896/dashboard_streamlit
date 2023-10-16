@@ -75,11 +75,11 @@ Link do Dashboard: <a href="https://dashboard-vendas-alura.streamlit.app/">Dashb
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="./img/requests.png" height="40" alt="requests lib"  />
+  <img src="requests.png" height="40" alt="requests lib"  />
   <img width="12" />
-  <img src="./img/streamlit.png" height="40" width="45" alt="streamlit lib"  />
+  <img src="streamlit.png" height="40" width="45" alt="streamlit lib"  />
   <img width="12" />
-  <img src="./img/plotly.png" height="40" width="45" alt="plotly lib"  />
+  <img src="plotly.png" height="40" width="45" alt="plotly lib"  />
 </div>
 
 ###
